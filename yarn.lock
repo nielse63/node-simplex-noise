@@ -5531,9 +5531,9 @@ wcwidth@^1.0.1:
   dependencies:
     defaults "^1.0.3"
 
-webpack-command@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/webpack-command/-/webpack-command-0.2.0.tgz#4db26637a8b9d9236a5cba5eb739b5dd60fbc099"
+webpack-command@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/webpack-command/-/webpack-command-0.2.1.tgz#67b741026807813947dfc0154fba9db27e3b42eb"
   dependencies:
     "@webpack-contrib/config-loader" "^1.0.0"
     "@webpack-contrib/schema-utils" "^1.0.0-beta.0"
